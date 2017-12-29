@@ -1,6 +1,6 @@
 # eslint-config-hemera
 
-Compatible eslint configuration to use Prettier with StandardJs
+Compatible eslint configuration to use Prettier with 99% of StandardJs
 
 ## Usage
 
