@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-hemera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "patch": "np patch --yolo",
+    "minor": "np minor --yolo",
+    "major": "np major --yolo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemerajs/eslint-config-hemera.git"
+  },
+  "author": "Dustin Deus <deusdustin@gmail.com> (http://www.starptech.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemerajs/eslint-config-hemera/issues"
+  },
+  "homepage": "https://github.com/hemerajs/eslint-config-hemera#readme",
+  "peerDependencies": {
+    "eslint": ">=4"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "2.9.x",
+    "eslint-config-standard": "10.2.x",
+    "eslint-plugin-import": "2.8.x",
+    "eslint-plugin-mocha": "4.11.x",
+    "eslint-plugin-node": "5.2.x",
+    "eslint-plugin-prettier": "2.4.x",
+    "eslint-plugin-promise": "3.6.x",
+    "eslint-plugin-standard": "3.0.x"
+  },
+  "devDependencies": {
+    "np": "^2.18.3"
+  }
+}
