@@ -7,5 +7,10 @@ module.exports = {
     "mocha/no-exclusive-tests": "error",
     "space-before-function-paren": "off",
     "prettier/prettier": "error"
+  },
+  env: {
+    es6: true,
+    node: true,
+    mocha: true
   }
 }
