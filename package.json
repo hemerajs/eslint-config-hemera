@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-hemera",
   "version": "0.0.0",
-  "description": "",
+  "description": "Compatible eslint configuration to use Prettier with StandardJs",
   "main": "index.js",
   "scripts": {
     "patch": "np patch --yolo",
