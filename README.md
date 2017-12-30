@@ -31,7 +31,7 @@ npm install --save-dev eslint eslint-config-hemera
 
 ## Limitation
 
-Prettier has no option for `"space-before-function-paren"`. That's the reason why we turn it off to have better IDE support.
+Prettier has no option for `"space-before-function-paren"` [Issue 1139](https://github.com/prettier/prettier/issues/1139). That's the reason why we turn it off to have better IDE support.
 
 ### Great tooling
 
