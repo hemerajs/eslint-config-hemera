@@ -18,6 +18,17 @@ npm install --save-dev eslint eslint-config-hemera
 
 ```
 
+## Scripts
+
+```json
+{
+  "lint": "eslint \"./**/*.js\"",
+  "lint:fix": "eslint --fix \"./**/*.js\"",
+  "format": "prettier \"./**/*.js\"",
+  "format:fix": "prettier \"./**/*.js\" --write",
+}
+```
+
 ## Limitation
 
 Prettier has no option for `"space-before-function-paren"`. That's the reason why we turn it off to have better IDE support.
