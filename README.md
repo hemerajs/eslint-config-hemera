@@ -1,6 +1,6 @@
 # eslint-config-hemera
 
-Compatible eslint configuration to use Prettier with 99% of StandardJs
+Compatible eslint configuration to use [Prettier](https://prettier.io/) with 99% of [StandardJs](https://standardjs.com/)
 
 ## Installation
 
@@ -25,5 +25,5 @@ Prettier has no option for `"space-before-function-paren"`. That's the reason wh
 ### Great tooling
 
 - [vscode](https://code.visualstudio.com/)
-- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) (enable format-on-save)
+- Use [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) to find lint issues.
+- Use [prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to automatically format your code.
