@@ -23,15 +23,15 @@
   },
   "dependencies": {
     "eslint-config-prettier": "2.9.x",
-    "eslint-config-standard": "10.2.x",
-    "eslint-plugin-import": "2.8.x",
-    "eslint-plugin-mocha": "4.11.x",
-    "eslint-plugin-node": "5.2.x",
-    "eslint-plugin-prettier": "2.4.x",
-    "eslint-plugin-promise": "3.6.x",
+    "eslint-config-standard": "11.0.x",
+    "eslint-plugin-mocha": "5.0.x",
+    "eslint-plugin-node": "6.0.x",
+    "eslint-plugin-prettier": "2.6.x",
+    "eslint-plugin-promise": "3.7.x",
     "eslint-plugin-standard": "3.0.x"
   },
   "devDependencies": {
-    "np": "^2.18.3"
+    "eslint": "^4.19.1",
+    "np": "^2.20.1"
   }
 }
