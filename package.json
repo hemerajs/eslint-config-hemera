@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hemera",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compatible eslint configuration to use Prettier with StandardJs",
   "main": "index.js",
   "scripts": {
