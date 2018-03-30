@@ -24,6 +24,7 @@
   "dependencies": {
     "eslint-config-prettier": "2.9.x",
     "eslint-config-standard": "11.0.x",
+    "eslint-plugin-import": "2.9.x",
     "eslint-plugin-mocha": "5.0.x",
     "eslint-plugin-node": "6.0.x",
     "eslint-plugin-prettier": "2.6.x",
