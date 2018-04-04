@@ -13,10 +13,10 @@ module.exports = {
     "promise/param-names": "error",
 
     "node/no-unsupported-features": "error",
-    "node/no-missing-require": "error",
-    "node/no-unpublished-bin": "error",
+    "node/no-missing-require": "off",
+    "node/no-unpublished-bin": "off",
     "node/shebang": "error",
-    "node/no-unpublished-require": "error",
+    "node/no-unpublished-require": "off",
     "node/no-deprecated-api": "error"
   },
   parserOptions: {
