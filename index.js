@@ -10,14 +10,7 @@ module.exports = {
 
     "promise/catch-or-return": "error",
     "promise/no-return-wrap": "error",
-    "promise/param-names": "error",
-
-    "node/no-unsupported-features": "error",
-    "node/no-missing-require": "off",
-    "node/no-unpublished-bin": "off",
-    "node/shebang": "error",
-    "node/no-unpublished-require": "off",
-    "node/no-deprecated-api": "error"
+    "promise/param-names": "error"
   },
   parserOptions: {
     ecmaVersion: 9
