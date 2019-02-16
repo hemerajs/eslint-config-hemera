@@ -1,6 +1,6 @@
 # eslint-config-hemera
 
-Compatible eslint configuration to use [Prettier](https://prettier.io/) with 99% of [StandardJs](https://standardjs.com/)
+Hemera eslint config. The perfect match to work with Prettier, Mocha and Node.
 
 ## Installation
 
@@ -28,10 +28,6 @@ npm install --save-dev eslint eslint-config-hemera
   "format:fix": "prettier \"./**/*.js\" --write",
 }
 ```
-
-## Limitation
-
-Prettier has no option for `"space-before-function-paren"` [Issue 1139](https://github.com/prettier/prettier/issues/1139). That's the reason why we turn it off to have better IDE support.
 
 ### Great tooling
 
